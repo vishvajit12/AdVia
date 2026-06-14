@@ -33,4 +33,4 @@ yarn-error.log*
 # MySQL local data (if storing dumps)
 *.sql.bak
 
-DEPLOYMENT.md
+
